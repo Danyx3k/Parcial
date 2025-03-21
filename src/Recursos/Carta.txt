@@ -1,0 +1,35 @@
+Nombre|Categoria|Precio
+Bandeja Paisa|Plato fuerte|40000
+Mondongo|Plato fuerte|25000
+Helado|Postre|8500
+Empanadas x6|Entrada|5000
+Patacones|Entrada|8000
+Jugo en agua|Bebida|5000
+Jugo en Leche|Bebida|8000
+Cerveza|Bebida|7500
+Solomito|Plato fuerte|45000
+Cañon BBQ|Plato fuerte|35500
+Chocolate|Bebida|4500
+Mazamorra|Bebida|5500
+Strogonf|Plato fuerte|37800
+Esalada Cesar|Plato fuerte|25000
+Hamburguesa Premium|Plato fuerte|35000
+Hamburguesa vegetariana|Plato fuerte|28000
+Sanduche de la casa|Plato fuerte|29000
+Alitas BBQ x8|Plato fuerte|27500
+Limonada de coco|Bebida|6500
+Mojarra|Plato fuerte|35000
+Picada 2 personas|Plato fuerte|35000
+Picada 4 personas|Plato fuerte|69900
+Chunchurria|Entrada|10000
+Trucha en salsa|Plato fuerte|45000
+Bandeja de res|Plato fuerte|20000
+Bandeja de pollo|Plato fuerte|19000
+Bandeja de cerdo|Plato fuerte|19800
+Pollo asado al ajillo|Plato fuerte|23500
+Chocolate en leche|Bebida|7500
+Aguapanela|Bebida|5500
+Salmón|Plato fuerte|37800
+Ceviche de camarón|Plato fuerte|28000
+
+
